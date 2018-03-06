@@ -6,6 +6,6 @@
 int main()
 {
 	Napis hello;		//stworzenie obiektu klasy Napis o nazwie hello
-	hello.pisz();
+	hello.pisz();		//wywolanie metody pisz()
 	return 0;
 }
